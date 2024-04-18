@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Tansheng Zhu (朱坦晟). 
+### Hi, I'm Tansheng Zhu (朱坦晟). 👋 
 
 <!--
 **acRyan54/acRyan54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
